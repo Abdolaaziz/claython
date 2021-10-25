@@ -1,2 +1,6 @@
-# claython
-The first project with C
+// claython 
+#include<stdio.h>
+   Int main() {
+     Printf("hello world") ;
+   return 0;
+}
